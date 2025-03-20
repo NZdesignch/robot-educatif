@@ -1,4 +1,4 @@
-![image description](/assemblage_perspective.png)
+![image description](/assemblage.png)
 
 # Robot éducatif
 
